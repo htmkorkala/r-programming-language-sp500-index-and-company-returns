@@ -3,6 +3,9 @@ This program will download the SP500 stock index returns and its' individual com
 This CSV file can be used for further analyzes for example in stock picking by comparing individual company returns to
 SP500 index returns for low volatility (beta) stock picking by using regression analysis and its' beta coefficients.
 
+It is noticeable that so far the SP500 company tickers in the code have to be manually updated.
+
+
 Volatility (beta) portfolio formation principles
 ************************************************
 Haugen and Heins (1992) documented previously in their working paper that the firms with low stock volatility produce 
